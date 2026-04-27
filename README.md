@@ -162,7 +162,7 @@ JavaForge is one of many Forge tools:
 
 6. ✅️ RustForge
 
-7. ✅️ GoForge (coming)
+7. ✅️ GoForge
 
 8. HTML/CSS Forge
 
