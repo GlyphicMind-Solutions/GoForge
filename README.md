@@ -148,7 +148,7 @@ models:
 
 # ⭐ Part of the GlyphicMind Forge Suite
 
-JavaForge is one of many Forge tools:
+GoForge is one of many Forge tools:
 
 1. ✅️ PythonForge
 
