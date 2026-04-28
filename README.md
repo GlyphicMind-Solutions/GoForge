@@ -36,7 +36,7 @@ Supports:
 ---
 
 ### 🧠 Deep Analysis v2
-JavaForge includes the upgraded Deep Analysis engine:
+GoForge includes the upgraded Deep Analysis engine:
 
 - Splits large codebases into chunks  
 - Summarizes each chunk  
@@ -89,7 +89,7 @@ storage/pending/cmd/app/main.go
 
 ### 🗂️ Storage System
 
-JavaForge organizes output into:
+GoForge organizes output into:
 
 ```
 storage/
